@@ -26,6 +26,6 @@ Getting started with ListNot Bot is a breeze:
 
 ## Links
 
-- [Telegram Group](https://t.me/ListNot_bot): Join our Telegram community to discuss the bot, ask questions, and share your experiences.
+- [Telegram Group](https://t.me/ListNot_bot)
 
 ---
